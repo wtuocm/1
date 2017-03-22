@@ -1,3 +1,4 @@
+<script>
 //var wtpl_wx="3307297217";
 //3248498391袁
 //3235145780季
@@ -13,3 +14,4 @@ else if (hour < 17)wtpl_wx="3307297217"
 else if (hour < 24)wtpl_wx="3307297217"
 $(function(){ $(".wtpl_wx").html(wtpl_wx);
 })
+</script>
